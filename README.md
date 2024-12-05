@@ -1,6 +1,8 @@
+[![MasterHead](https://www.veracode.com/sites/default/files/2021-02/hackergames-hero-main.jpg)](https://codegrills.in)
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 <h1 align="center">Hi 👋, I'm Vamshi Donoju</h1>
 <h3 align="center">Future DevOps Engineer|Embracing AWS,Cloud Automation,CI/CD</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vamshi9393&label=Profile%20views&color=0e75b6&style=flat" alt="vamshi9393" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vamshi9393" alt="vamshi9393" /></a> </p>
